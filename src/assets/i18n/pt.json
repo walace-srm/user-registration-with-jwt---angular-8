@@ -1,0 +1,17 @@
+{
+    "Register user": "Cadastrar usuário",
+    "First Name": "Primeiro nome",
+    "Last name": "Nome completo",
+    "Registration successful": "Registrado com sucesso",
+    "Username": "Usuário",
+    "Password": "Senha",
+    "Register": "Cadastrar",
+    "Cancel": "Cancelar",
+    "Hi": "Olá",
+    "You re logged in with Angular 8!": "Você está logado com o Angular 8!",
+    "All registered users:": "Todos os usuários cadastrados:",
+    "Logout": "Sair",
+    "Home": "Início",
+    "Delete": "Excluir",
+    "Login": "Entrar"
+}
