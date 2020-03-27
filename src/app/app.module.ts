@@ -14,7 +14,7 @@ import { LoginComponent } from './login';
 import { RegisterComponent } from './register';
 import { AlertComponent } from './_components';
 import {TranslateModule, TranslateLoader, TranslateService} from '@ngx-translate/core';
-import { CoreModule } from './core/core.module';
+//import { CoreModule } from './core/core.module';
 import {TranslateHttpLoader} from '@ngx-translate/http-loader'
 
 export function createTranslateLoad(http: HttpClient) {
